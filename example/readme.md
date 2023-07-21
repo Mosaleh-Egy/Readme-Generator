@@ -2,11 +2,11 @@
 # Project Title
 
 Readme Generator
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 Node.js Challenge: Professional README Generator
 
 # Description
-A readme generator that can create a good readme for me and keep it saved
+A Node js powered application that creates readme 
 
 - [For-Installation](-----Installation Guide-----)
 - [For-Usage](-----Usage Guide-----)
@@ -16,7 +16,7 @@ A readme generator that can create a good readme for me and keep it saved
 - [For-Questions](-----Contact-Information Guide-----)
     
 # Installation
-npm install then node index.js in the terminal
+npm install
 
 # Usage
 node index.js
@@ -37,7 +37,7 @@ Use NPM install
 - node index.js
 
 # License 
-GNU GPLv3
+Apache 2.0
 MIT License
 
 Copyright (c) [2021] [Benji-Francis]
@@ -61,7 +61,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 # Contributing 
-Through github
+through email
 Email me
 
 # Tests
@@ -70,6 +70,6 @@ Use Unit testing with Jest
 
 
 # Contact Information 
-* GitHub Username: Mosaleh-Egy
+* GitHub Username: mosaleh-egy
 * Contact Email: mohamedahmedsaleh50@gmail.com
 
